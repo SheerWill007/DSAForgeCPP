@@ -79,6 +79,7 @@ const auto __ = []() {
 
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 class Solution {
 public:
